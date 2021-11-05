@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">doggone</string>
+    <string name="woof_woof">Woof, Woof</string>
+    <string name="todo">TODO</string>
+</resources>
